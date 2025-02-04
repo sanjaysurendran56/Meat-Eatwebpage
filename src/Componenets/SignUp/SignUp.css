@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Caveat:wght@400..700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+.sign{
+    margin-top: 60px;
+    margin-left: 400px;
+    text-align: center;
+    border-color:tomato;
+    border-width: 2px;
+    border-style: solid;
+    width: 350px;
+    height: 400px;
+    font-family: Josefin Sans;
+    background-color:white;
+    border-radius: 5px;
+    box-shadow: 0 0 5px tomato;
+}

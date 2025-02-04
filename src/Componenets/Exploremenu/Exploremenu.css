@@ -1,0 +1,54 @@
+.ion{
+    margin-left: 30px;
+    font-family: Outfit;
+}
+.flexi{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    font-family:Outfit;
+    text-align: center;
+    overflow-x: scroll;
+}
+.flexi::-webkit-scrollbar{
+    display: none;
+}
+.size{
+    width: 200px;
+    height: 200px;
+    margin-left: 30px;
+    border-radius:30%;
+}
+.size1{
+    width: 200px;
+    height: 200px;
+    margin-left: 30px;
+    border-radius:30%;
+    padding-right: 15px;
+    padding-top: 10px;
+}
+.size2{
+    border-width: 1px;
+    margin-left: 30px;
+}
+.flexv:hover{
+    cursor: pointer;
+}
+img:hover{
+    transition: 2s;
+    transform: scale(0.9);
+}
+.line{
+    border-bottom-color: tomato;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
+hr{     /* Removes default border */
+ height:2px;          
+ background-color:#e2e2e2;  
+}
+h1{
+    font-family: Outfit;
+    margin-left: 30px;
+}

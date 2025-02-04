@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+.header{
+    background: no-repeat;
+    background-size: cover;
+    height: 35vw;
+    margin: 20px auto;
+    padding-top: 15vw;
+    padding-left: 40px;
+    font-family: Outfit;
+}
+.headers{
+    font-size:max(4.5vw,22px);
+    animation: fadeIn 3s;
+}
+.header span{
+    display: block;
+}
+.ones{
+    height: 40px;
+    width: 130px;
+    border-radius: 50px;
+    margin-top: 10px;
+    font-size:large;
+    background-color: tomato;
+    font-family: Outfit;
+}
+.ones:hover{
+    cursor: pointer;
+    transition: 3s;
+}
+.arricon{
+    height: 30px;
+  width: 30px;
+  position: relative;
+  top: 7px;
+}

@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Caveat:wght@400..700&display=swap');
+.ten{
+    width: 300px;
+    height: 300px;
+    margin-left: 500px;
+  
+}
+.nine{
+    text-align: center;
+    font-size: 70px;
+}
+.eight{
+    text-align: center;
+    font-family: Caveat;
+}

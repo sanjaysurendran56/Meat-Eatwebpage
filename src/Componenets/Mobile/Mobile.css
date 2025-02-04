@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Caveat:wght@400..700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Quicksand:wght@300..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.adjust{
+    width: 500px;
+    height: 500px;
+    margin-left: 70px;
+    display: inline-block;
+}
+.we{
+    display: inline-block;
+    position: relative;
+    top: -300px;
+    font-family: Quicksand;
+    font-size:small;
+    gap: 30px;
+}
+.wid{
+    width: 200px;
+    height: 50px;
+    margin-left: 20px;
+}
+label{
+    margin-right: 30px;
+    font-size: x-large;
+}
+.link{
+    background-color: red;
+    margin-left: 20px;
+    height: 50px;
+    width: 100px;
+    border-radius: 30px;
+}
+.link:hover{
+    cursor: pointer;
+}
